@@ -1,0 +1,171 @@
+{
+  "personal": {
+    "image": "https://media.licdn.com/dms/image/v2/D5603AQHxF5Tzv1Dg9A/profile-displayphoto-scale_200_200/B56Z0jvUjrKMAY-/0/1774421104690?e=2147483647&v=beta&t=qdD_7GTUw0Bsd_r2Y8nhbmHBwGQDT6csxrdQzOpZnlg",
+    "name": "Sameer Khan",
+    "title": "Full Stack Developer (MERN)",
+    "subtitle": "MERN Stack Developer & Software Engineer",
+    "description": "I craft beautiful, functional, and user-centered digital experiences. Passionate about clean code, modern design, and cutting-edge technologies.",
+    "objective": "Seeking a challenging Full Stack Developer role where I can apply my 1+ years of expertise in high-performance MERN technologies, real-time systems (Socket.io), and AI integrations (OpenAI/LangChain) to drive innovation and organizational growth.",
+    "summary": "Full Stack Developer with 1+ year of professional experience building high-performance, scalable web applications using MERN stack (MongoDB, Express.js, React.js, Node.js) and Next.js. Expertise in microservices architecture, real-time systems using Socket.io and WebRTC, and cloud deployment on AWS. Proven track record of reducing API response times by 40%, handling 10,000+ concurrent users, and integrating AI solutions using LangChain and OpenAI API. Founder of Codingyari — a tech platform with 10+ production apps and open-source developer tools",
+    "contact": {
+      "phone": "+91 7014340099",
+      "email": "codwithsameer@gmail.com",
+      "location": "Jaipur, India"
+    },
+    "social": {
+      "github": "https://github.com/codingyaari",
+      "linkedin": "https://www.linkedin.com/in/sameerkhandev",
+      "twitter": "https://x.com/codingyaari"
+    },
+    "resume": "https://drive.google.com/file/d/1GHYdXGybMSWXQDqqtZ2Rq9TjFpvGpzej/view",
+    "availability": "Available for new opportunities"
+  },
+  "skills": {
+    "frontend": [
+      { "name": "Next.js", "level": 95, "color": "from-gray-900 to-gray-700 dark:from-white dark:to-gray-300" },
+      { "name": "React.js", "level": 95, "color": "from-blue-500 to-cyan-500" },
+      { "name": "TypeScript", "level": 90, "color": "from-blue-600 to-blue-400" },
+      { "name": "Redux", "level": 88, "color": "from-purple-500 to-pink-500" },
+      { "name": "Fabric.js", "level": 85, "color": "from-orange-500 to-red-500" },
+      { "name": "CSS/UI/UX", "level": 92, "color": "from-cyan-500 to-teal-500" }
+    ],
+    "backend": [
+      { "name": "Node.js", "level": 95, "color": "from-green-600 to-green-400" },
+      { "name": "Express.js", "level": 93, "color": "from-gray-800 to-gray-600" },
+      { "name": "REST API", "level": 95, "color": "from-purple-500 to-pink-500" },
+      { "name": "MVC Architecture", "level": 90, "color": "from-indigo-500 to-purple-500" },
+      { "name": "Design Patterns", "level": 88, "color": "from-blue-500 to-cyan-500" }
+    ],
+    "databases": [
+      { "name": "MongoDB", "level": 95, "color": "from-green-500 to-emerald-500" },
+      { "name": "MySQL", "level": 85, "color": "from-blue-600 to-cyan-500" },
+      { "name": "Redis", "level": 90, "color": "from-red-500 to-orange-500" },
+      { "name": "API Optimization", "level": 92, "color": "from-purple-500 to-pink-500" },
+      { "name": "Rate Limiting", "level": 88, "color": "from-yellow-500 to-orange-500" }
+    ],
+    "realtime": [
+      { "name": "Socket.io", "level": 95, "color": "from-blue-500 to-cyan-500" },
+      { "name": "WebSockets", "level": 93, "color": "from-purple-500 to-pink-500" },
+      { "name": "BullMQ", "level": 85, "color": "from-green-500 to-emerald-500" },
+      { "name": "FCM", "level": 88, "color": "from-orange-500 to-red-500" }
+    ],
+    "cloud": [
+      { "name": "AWS EC2", "level": 90, "color": "from-orange-500 to-yellow-500" },
+      { "name": "AWS S3", "level": 92, "color": "from-blue-500 to-cyan-500" },
+      { "name": "CloudFront", "level": 88, "color": "from-purple-500 to-pink-500" },
+      { "name": "Git", "level": 95, "color": "from-orange-600 to-red-500" }
+    ],
+    "ai": [
+      { "name": "OpenAI", "level": 90, "color": "from-green-500 to-emerald-500" },
+      { "name": "LangChain", "level": 88, "color": "from-blue-500 to-cyan-500" },
+      { "name": "Vector Search", "level": 85, "color": "from-purple-500 to-pink-500" },
+      { "name": "AI Integration", "level": 90, "color": "from-orange-500 to-red-500" }
+    ],
+    "auth": [
+      { "name": "NextAuth", "level": 95, "color": "from-blue-500 to-cyan-500" },
+      { "name": "Secure Sessions", "level": 92, "color": "from-green-500 to-emerald-500" },
+      { "name": "Token Validation", "level": 90, "color": "from-purple-500 to-pink-500" }
+    ]
+  },
+  "experience": [
+    {
+      "company": "Freelancer",
+      "position": "Full Stack (MERN) Developer",
+      "location": "Remote",
+      "startDate": "January 2024",
+      "endDate": "2025",
+      "description": ["Architected and deployed 5+ scalable microservices using Node.js, reducing API response time by 40% and improving system reliability to 99.9% uptime",
+      "Built real-time collaborative features using Socket.io and Redis, supporting 10,000+ concurrent users with sub-100ms latency", 
+      "Developed RESTful APIs with comprehensive authentication (JWT, OAuth 2.0) and role-based access control", "Optimized MongoDB queries and implemented Redis caching strategy, reducing database load by 50% and improving page load times by 35%", 
+      "Integrated AI chatbot using LangChain and OpenAI API, handling 100+ customer queries daily with 85% satisfaction rate", "Established CI/CD pipelines using GitHub Actions and deployed on AWS (EC2, S3), reducing deployment time by 70%", 
+      "Developed VS Code extensions (console-debug-pro, Node.js Snippets) with 150+ combined downloads", "Mentored 3 junior developers in React.js, Node.js, and software design patterns"
+    ],
+      "technologies": ["Next.js", "React.js", "Node.js", "MongoDB", "Redis", "AWS", "Socket.io", "WebRTC"],
+      "gradient": "from-blue-500/10 to-cyan-500/10"
+    }
+  ],
+  "projects": [
+    {
+      "title": "OpenTalk",
+      "subtitle": "Real-Time Language Learning Platform",
+      "description": "Developed a real-time language learning platform enabling users to create and join customizable conversation rooms. Integrated Redis for efficient session handling and scalable real-time communication across multiple users.",
+      "technologies": ["React.js", "Node.js", "Express.js", "MongoDB", "Socket.io", "Redis", "WebRTC"],
+      "github": "https://github.com/codingyaari",
+      "live": "https://opentalk.codingyari.com",
+      "featured": true,
+      "gradient": "from-blue-500/20 to-cyan-500/20",
+      "year": "2026",
+      "highlights": ["Real-time messaging and voice/video rooms using Socket.io + WebRTC", 
+      "Redis-based session handling for 100+ concurrent users", "Achieved 95.99% uptime with sub-100ms latency", 
+      "Secure JWT authentication with role-based access control", "Scalable microservices backend architecture"]
+    },
+    {
+      "title": "GitProfileX",
+      "subtitle": "AI-Generated Developer Portfolio",
+      "description": "Developed a dynamic portfolio generator using GitHub username. Integrates GitHub API to display repositories, stats, languages, and profile insights with live synchronization. AI-powered bio and project descriptions using OpenAI API.",
+      "technologies": ["React.js", "Node.js", "Express.js", "MongoDB", "Redis", "Socket.io", "FCM", "AWS S3", "CloudFront"],
+      "github": "https://github.com/codingyaari",
+      "live": "https://codingyari.com/services",
+      "featured": true,
+      "gradient": "from-purple-500/20 to-pink-500/20",
+      "highlights": ["Improved developer onboarding efficiency by 45%", "Live GitHub API sync for repos, stats and language breakdown", "AI-generated portfolio content using OpenAI API", "Zustand state management for seamless UX"]
+    },
+    {
+      "title": "URL Shortener Platform",
+      "subtitle": "Full Stack Web Application",
+      "description": "Transform long URLs into short, shareable links with real-time analytics. Manage, track, and analyze link performance. Secured with Google OAuth 2.0 authentication to prevent unauthorized access.",
+      "technologies": ["Next.js", "React.js", "TypeScript", "NextAuth", "OAuth 2.0", "MongoDB"],
+      "github": "https://github.com/codingyaari",
+      "live": "https://shortener.codingyari.com/",
+      "featured": false,
+      "year": "2025",
+      "highlights": [
+        "Sub-100ms redirection with 40% improved link tracking efficiency",
+        "Reduced unauthorized access by 99.9% via Google OAuth",
+        "Real-time analytics dashboard for link performance"
+      ]
+    },
+    {
+      "title": "IChaty",
+      "subtitle": "Real-Time Chat Application",
+      "description": "Developed a web-based, WhatsApp-like chat application with QR-based login, real-time messaging, group chats, broadcast messages, and status updates. Built responsive chat UI with real-time message updates using Socket.io and managed chat histories efficiently using Redux.",
+      "technologies": ["Next.js", "Socket.io", "Redux", "MongoDB", "MySQL"],
+      "github": "https://github.com",
+      "live": "https://example.com",
+      "featured": false,
+      "gradient": "from-green-500/20 to-emerald-500/20",
+      "highlights": [
+        "QR-based authentication",
+        "Real-time messaging",
+        "Group chats & broadcast",
+        "Status updates"
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Computer Applications (BCA)",
+    "institution": "CIITM College, Jaipur",
+    "year": "2025"
+  },
+  "features": [
+    {
+      "icon": "Code",
+      "title": "Clean Code",
+      "description": "Writing maintainable and scalable code following best practices and design patterns.",
+      "gradient": "from-blue-500 to-cyan-500"
+    },
+    {
+      "icon": "Rocket",
+      "title": "Performance",
+      "description": "Building fast, optimized applications with Redis caching, API optimization, and CDN integration.",
+      "gradient": "from-purple-500 to-pink-500"
+    },
+    {
+      "icon": "Coffee",
+      "title": "Problem Solving",
+      "description": "Turning complex challenges into elegant solutions with real-time systems and AI integration.",
+      "gradient": "from-orange-500 to-red-500"
+    }
+  ]
+}
+
